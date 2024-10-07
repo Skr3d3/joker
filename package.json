@@ -1,0 +1,21 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "testrepo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "skr3d3",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skr3d3/joker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Skr3d3/joker/issues"
+  },
+  "homepage": "https://github.com/Skr3d3/joker#readme"
+}
