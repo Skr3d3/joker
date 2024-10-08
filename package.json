@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Skr3d3/joker/issues"
   },
-  "homepage": "https://github.com/Skr3d3/joker#readme"
+  "homepage": "https://github.com/Skr3d3/joker#readme",
+  "dependencies": {
+    "one-liner-joke": "^1.2.2"
+  }
 }
