@@ -1,0 +1,29 @@
+{
+  "name": "joker",
+  "version": "0.1.0",
+  "description": "testrepo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/js/joker.js",
+    "format": "npx prettier -w src/js/joker.js"
+  },
+  "keywords": [],
+  "author": "skr3d3",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skr3d3/joker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Skr3d3/joker/issues"
+  },
+  "homepage": "https://github.com/Skr3d3/joker#readme",
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  },
+  "dependencies": {
+    "avalancheninja-joker": "^0.1.0",
+    "give-me-a-joke": "^0.5.1"
+  }
+}
