@@ -1,5 +1,5 @@
 {
-  "name": "avalancheninja-joker",
+  "name": "joker",
   "version": "0.1.0",
   "description": "testrepo",
   "type": "module",
@@ -23,6 +23,7 @@
     "prettier": "^3.3.3"
   },
   "dependencies": {
+    "avalancheninja-joker": "^0.1.0",
     "give-me-a-joke": "^0.5.1"
   }
 }
