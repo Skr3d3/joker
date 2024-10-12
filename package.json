@@ -1,6 +1,6 @@
 {
   "name": "joker",
-  "version": "0.1.4",
+  "version": "0.2.0",
   "description": "testrepo",
   "type": "module",
   "main": "index.js",
@@ -9,7 +9,6 @@
     "format": "npx prettier -w src/**/*.js",
     "lint": "eslint src/**/*.js",
     "lint-fix": "eslint src/**/*.js --cache --fix"
-
   },
   "keywords": [],
   "author": "skr3d3",
