@@ -6,7 +6,9 @@
   "main": "index.js",
   "scripts": {
     "test": "node src/js/joker.test.js",
-    "format": "npx prettier -w src/**/*.js"
+    "format": "npx prettier -w src/**/*.js",
+    "lint": "eslint src/**/*.js"
+
   },
   "keywords": [],
   "author": "skr3d3",
@@ -20,6 +22,9 @@
   },
   "homepage": "https://github.com/Skr3d3/joker#readme",
   "devDependencies": {
+    "@eslint/js": "^9.12.0",
+    "eslint": "^9.12.0",
+    "globals": "^15.11.0",
     "prettier": "^3.3.3"
   },
   "dependencies": {
